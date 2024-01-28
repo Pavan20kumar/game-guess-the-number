@@ -1,0 +1,22 @@
+.bg-container{
+    background-color: #246db6;
+    height: 100vh;
+}
+
+.gamep{
+    font-size: larger;
+    font-style: italic;
+    position: relative;
+    top: 22px;
+}
+.gameheading{
+    font-size: xx-large;
+    font-weight: 800;
+    font-style: italic;
+}
+input{
+    padding: 22px;
+}
+.game-result{
+    color: white;
+}
